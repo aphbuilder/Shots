@@ -1,0 +1,26 @@
+# Gradle
+.gradle/
+build/
+
+# Local configuration
+local.properties
+
+# Log files
+*.log
+
+# Android Studio
+.idea/
+*.iml
+.DS_Store
+
+# Built files
+*.apk
+*.aab
+
+# Google Services (IMPORTANT for security if you don't use secrets)
+google-services.json
+IGNORE_WHEN_COPYING_START
+content_copy
+download
+Use code with caution.
+IGNORE_WHEN_COPYING_END

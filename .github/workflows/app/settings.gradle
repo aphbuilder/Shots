@@ -1,0 +1,25 @@
+
+Generated gradle
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+
+rootProject.name = "MyCaptureApp"
+include ':app'
+IGNORE_WHEN_COPYING_START
+content_copy
+download
+Use code with caution.
+Gradle
+IGNORE_WHEN_COPYING_END
